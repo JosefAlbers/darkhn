@@ -1,0 +1,28 @@
+body, #hnmain {
+    background-color: #1a1a1a !important;
+    color: #cccccc !important;
+}
+
+#hnmain > tbody > tr:first-child td {
+    background-color: #2b2b2b !important;
+}
+
+a:link { color: #828282 !important; }
+a:visited { color: #5a5a5a !important; }
+.title a { color: #dcdcdc !important; }
+.title a:visited { color: #828282 !important; }
+
+.commtext { color: #bbbbbb !important; }
+.reply a { color: #ff6600 !important; } 
+
+input, textarea {
+    background-color: #333 !important;
+    color: #eee !important;
+    border: 1px solid #444 !important;
+}
+
+.subtext, .subtext a { color: #727272 !important; }
+
+table, tr, td {
+    background-color: transparent !important;
+}
